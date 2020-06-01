@@ -2,7 +2,7 @@ title: Fish-Touching-Blog
 description: "好勤我酬，好鱼我摸"
 url: "https://Purevessel.github.io"
 author:
-  name: "Wind4RomEast"
+  name: "WindFromEast"
   email: "tyc924842248@126.com"
   url: "https://Purevessel.github.io"
 
@@ -29,5 +29,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "WindFromEast"
 year : "2020"
